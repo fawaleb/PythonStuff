@@ -8,6 +8,9 @@ verify_ssl = true
 [packages]
 python-dateutil = "*"
 pytz = "*"
+requests = "*"
+pandas = "*"
+beautifulsoup4 = "*"
 
 [requires]
 python_version = "3.8"
